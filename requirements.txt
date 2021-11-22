@@ -1,0 +1,14 @@
+dash
+dash_core_components 
+dash_bootstrap_components 
+dash_table
+dash_html_components 
+plotly.express 
+pandas
+plotly.graph_objs
+dash.dependencies 
+dash.exceptions 
+webbrowser
+matplotlib.pyplot 
+matplotlib.image
+PIL
