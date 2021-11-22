@@ -1,14 +1,7 @@
-def import_or_install(pac):
-    try:
-        __import__(pac)
-    except ImportError:
-        pip.main(['install', pac])    
-
-bibliotecas = ["dash", "dash_core_components", "dash_html_components", "dash_bootstrap_components",
-               "dash_table", "express", "numpy"]
-
-
-for b in bibliotecas:
-    import_or_install(b)
-
-print("Bibliotecas instaladas")
+ pip install dash
+ pip install dash_core_components
+ pip install dash_html_components
+ pip install dash_bootstrap_components
+ pip install dash_table
+ pip install express
+ pip install numpy
