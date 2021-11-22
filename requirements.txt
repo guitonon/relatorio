@@ -5,7 +5,7 @@ dash_table
 dash_html_components 
 plotly.express 
 pandas
-dash.dependencies 
+dash.dependencies 2.0.0.
 dash.exceptions 
 webbrowser
 matplotlib.pyplot 
