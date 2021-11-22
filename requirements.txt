@@ -1,5 +1,3 @@
-import pip
-
 def import_or_install(pac):
     try:
         __import__(pac)
