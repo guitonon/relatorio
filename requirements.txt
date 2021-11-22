@@ -5,7 +5,6 @@ dash_table
 dash_html_components 
 plotly.express 
 pandas
-plotly.graph_objs
 dash.dependencies 
 dash.exceptions 
 webbrowser
