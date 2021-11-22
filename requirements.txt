@@ -1,8 +1,3 @@
-"""
-Esse script instala as bibliotecas que iremos utilizar nos próximos exemplos.
-Obs: requer conexão com a Internet!!!!
-"""
-
 import pip
 
 def import_or_install(pac):
