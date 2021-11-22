@@ -5,7 +5,6 @@ dash_table
 dash_html_components 
 plotly.express 
 pandas
-dash.exceptions 
 webbrowser
 matplotlib.pyplot 
 matplotlib.image
